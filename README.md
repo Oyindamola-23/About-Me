@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Oyindamola-23
-- 👀 I’m interested in Data Analyst Roles
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on data analysis projects
+- 👋 Hi, I’m Kelani Sidikat Oyindamola 
+- 👀 I’m interested in Data Analyst/ Data Science Roles
+- 🌱 My commitment to professional development is evident in my extensive list of certifications in data science and data analysis.
+- 💞️ I’m looking to collaborate on data analysis and data projects
 - 📫 How to reach me on Linkedin "https://www.linkedin.com/in/sidikat-kelani-6755721b5/"
 
 <!---
